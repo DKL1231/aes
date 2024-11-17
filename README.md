@@ -8,8 +8,6 @@ AES알고리즘에 대한 이해와 개인적인 구현 능력 강화를 위해 
 
 # 실행 화면
 
-![image.png](https://withme.s3.amazonaws.com/interImg/0f88b555-96ec-43e4-8127-4f3c6aa19ae7_image.png)
-
 1.  라운드별 실행 결과 확인
 
 ![image.png](https://withme.s3.amazonaws.com/interImg/ed8f45c7-e7f0-4a94-a8ab-33ae15a3a6a9_image.png)
